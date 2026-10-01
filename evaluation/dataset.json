@@ -1,0 +1,19 @@
+{
+  "description": "EXAMPLE evaluation set. Replace these with questions about YOUR documents. expected_sources must match file names in docs/. Use answerable:false for questions your documents do NOT cover (tests that the bot says 'not found').",
+  "questions": [
+    {
+      "question": "Replace with a question answered in one of your files",
+      "expected_sources": ["your_file.pdf"],
+      "expected_keywords": ["keyword1", "keyword2"]
+    },
+    {
+      "question": "Another question whose answer is in your documents",
+      "expected_sources": ["another_file.pdf"],
+      "expected_keywords": ["keyword"]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answerable": false
+    }
+  ]
+}

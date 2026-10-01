@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+langchain-text-splitters
+langgraph
+sentence-transformers
+chromadb
+numpy
+pypdf
+streamlit
+python-dotenv
+langchain-groq   # optional, only if LLM_PROVIDER=groq
+pytest            # optional, for tests
