@@ -248,7 +248,3 @@ The tests run without downloading any models.
 ## 🤝 Contributing
 
 Issues and pull requests are welcome. Please run `python -m pytest -q` before submitting a PR.
-
-## 📄 License
-
-Add your license here (for example, MIT) and include a `LICENSE` file in the repo.
